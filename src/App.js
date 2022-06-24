@@ -60,8 +60,7 @@ function App() {
               window.open('https://ilasariyadeep.github.io/food-court-responsive-website-design/', "_blank")
               return window.location.href = 'https://ilasariyadeep.github.io/deep.po/';
           }}/>
-          <Route exact path='/deep.po/deepsecondrespo' component={() => { 
-              // window.location.href = 'https://www.linkedin.com/in/akshat-mehta-981100172'; 
+          <Route exact path='/deep.po/deepsecondrespo' component={() => {  
               window.open('https://ilasariyadeep.github.io/Transpent-Login-Page/', "_blank")
               return window.location.href = 'https://ilasariyadeep.github.io/deep.po/';
           }}/>
