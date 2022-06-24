@@ -73,7 +73,7 @@ export const Work = () => {
         <div className="card-body">
             <h5 className="card-title">Transperent Login Page</h5>
             <h6 className="card-text">Description:</h6>
-            <p className="card-text">A responsive template created for a transparent login page.</p>
+            <p className="card-text">A template created for a transparent login page.</p>
             <p className="card-text">Technologies used for the devlopment.</p>
             <ul className="tech-use">
             <p className="card-text">Frontend</p>

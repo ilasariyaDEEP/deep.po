@@ -78,12 +78,11 @@ export const Home = () => {
                     <li>Css</li>
                     <li>Javascript</li>
                     <li>Pug</li>
-                    <li>Node.js</li>
-                    <li>Express.js</li>
+                    <li>NodeJS</li>
+                    <li>ExpressJS</li>
                     <li>MongoDB</li>
-                    <li>React.js</li>
-                    <li>Python</li>
-                    <li>MySQL</li>
+                    <li>ReactJS</li>
+                    <li>Bootstrap</li>
                     <li>MS-Excel, Word, PowerPoint, Outlook</li>
 
                   </ul>
