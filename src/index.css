@@ -1,0 +1,63 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Joan&family=Patrick+Hand&display=swap');
+*{
+  color: #2C3A47;
+}
+body {
+  margin: 0;
+  font-family: 'Joan', serif;
+  font-weight: bold;
+  /* font-family: 'Patrick Hand', cursive; */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.bg-dark{
+  background-color: #58b19f!important;
+  }
+
+  .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .show>.nav-link {
+    color: #2C3A47;
+    font-weight: bold;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #2C3A47;
+  font-weight: bold;
+}
+
+.text-white {
+  color:#2C3A47!important;
+  font-weight: bold;
+}
+
+.btn-outline-light {
+  color: #2C3A47;
+  border-color: #2C3A47;
+}
+
+.btn-group-lg>.btn, .btn-lg {
+  padding: .5rem 1rem;
+  font-size: 1.25rem;
+  border-radius: 1.3rem;
+  font-weight: bold;
+}
+
+hr:not([size]) {
+  height: 6px;
+}
+
+.cus-col-md-4{
+  width:33.33% !important;
+}
+
+@media (max-width:767px){
+  .cus-col-md-4{
+    width:100% !important;
+  } 
+}
